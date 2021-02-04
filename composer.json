@@ -1,0 +1,10 @@
+{
+    "name": "aibesorg/pg-woocommerce-plugin",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/aibesorg/pg-woocommerce-plugin",
+    "license": "GPL-2.0",
+    "require": {
+      "composer/installers": "~1.0"
+    }
+  }
+  
